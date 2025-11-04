@@ -213,15 +213,7 @@ Ye raha aapke diye gaye guide ka **Roman Urdu** version, jismein code setup ko b
 
 -----
 
-## Al Quran Academy Website Ko Local Par Kaise Chalayein
-
-Ye ek **excellent request** hai\! Main ek saada, **step-by-step guide** likhunga jo kisi aise shakhs ke liye hai jise sirf **App.jsx** file mili hai aur woh poori website ko apne computer par chalana chahta hai.
-
-Ye guide yeh **assume** karti hai ke us shakhs ke paas modern Windows, Mac, ya Linux computer hai aur usey shuru se sab kuch install karne ki zaroorat hai.
-
------
-
-## Al Quran Academy Website Chalane Ka Guide
+## Al Quran Academy Websit local computer pe chalane Ka Guide
 
 Ye website **React** par bani hai, jo ek modern web technology hai. Isay chalane ke liye, aapke computer ko **Node.js** naam ke ek **simple setup** ki zaroorat hai taaaki project build aur launch ho sake.
 
